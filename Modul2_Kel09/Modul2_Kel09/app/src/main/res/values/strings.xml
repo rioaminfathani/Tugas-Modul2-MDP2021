@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modul 2 MDP 2021</string>
+    <string name="mulai">Mulai</string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="title_activity_nama_nim">IDKelompok</string>
+        <string name="namanim">Nama NIM</string>
+</resources>
